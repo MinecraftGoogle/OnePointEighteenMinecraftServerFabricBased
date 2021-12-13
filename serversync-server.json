@@ -17,14 +17,14 @@
     "files": {
       "include": [
         "mods/**",
-	"clientmodpack/**"
+	"clientmodpack/mods/**"
       ],
       "ignore": [
         "**/serversync-*.jar",
         "**/serversync-*.cfg"
       ],
       "redirect": [
-      	{ "pattern": "clientmodpack/**", "redirectTo": "" }
+      	{ "pattern": "clientmodpack/mods/**", "redirectTo": "" }
       ]
     }
   },
