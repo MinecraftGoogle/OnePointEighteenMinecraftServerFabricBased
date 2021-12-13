@@ -24,7 +24,7 @@
         "**/serversync-*.cfg"
       ],
       "redirect": [
-      	{ "pattern: "clientmodpack/**", "redirectTo": ""  
+      	{ "pattern: "clientmodpack/**", "redirectTo": "" }
       ]
     }
   },
