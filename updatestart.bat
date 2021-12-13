@@ -1,5 +1,5 @@
 git stash
-git pull
+git pull origin beta
 
 start start.bat
 start startserversync.bat
